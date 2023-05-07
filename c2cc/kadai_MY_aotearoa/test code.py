@@ -58,7 +58,7 @@ mc.postToChat('Hello')
 #     y -= 1
 #     sleep(0.1)
 
-x0, y0, z0 = 570, 125, 300
+x0, y0, z0 = 570, 125, 400
 
 z = z0 + 2
 for o in range(2):
